@@ -12,7 +12,7 @@ Deploy this Python Flask server easily with [Northflank](https://www.northflank.
 - Wait for the app to build and visit the newly assigned URL. That's it!
 
 ### Live Demo
-[https://port.python-flask-example.examples.northflank.northflank.app](https://port.python-flask-example.examples.northflank.northflank.app)
+[https://port1--python-flask-example--examples--northflank.northflank.app/](https://port1--python-flask-example--examples--northflank.northflank.app/)
 
     
 ## About Flask
